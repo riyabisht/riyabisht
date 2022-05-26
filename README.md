@@ -25,7 +25,7 @@
 <a href="mailto:riyabisht152@gmail.com?subject=github:">
   <img height="25px" src="./img/gmail.svg">
 </a>
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/riya-bisht/">
   <img height="25px" src="./img/linkedin.svg">
 </a>
 <a href="https://twitter.com/Riya_Bisht_">

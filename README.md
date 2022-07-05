@@ -2,7 +2,7 @@
 
 ## I'm a B.Tech CSE Undergrad
 
-- 🌱 Currently a 3rd year undergrad 👩‍🎓
+- 🌱 Currently a 4th year undergrad 👩‍🎓
 - 🥅 2022 Goal: Learn about UX/XI
 - ⚡ Hobbies: I love to draw and play table-tennis 🏓
 - 😻 Love to make new friends
@@ -10,11 +10,11 @@
 ## Technologies I have worked with
 
 - **Languages:**
-  `C`, `C++`, `Java`, `Python`, `R`, `Julia`, `Scala`, `lua`
+  `C`, `C++`, `Javascript`, `Python`, `Julia`, `Scala`
 - **Clouds:**
   `Amazon Web Services`, `Google Cloud Platform`
 - **Data stores:**
-  `MySQL`, `MariaDB`, `neo4j`
+  `MySQL`, `neo4j`
 - **Version Control:**
   `git`
 - **Operating Systems:**

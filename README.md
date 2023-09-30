@@ -1,36 +1,10 @@
-# Hi there, I'm Riya Bisht 👋 
+<h1 align="center">
+  <a href="https://riyabisht.github.io/">Portfolio</a>
+</h1>
 
-## I'm a B.Tech CSE Undergrad
-
-- 🌱 Currently a 4th year undergrad 👩‍🎓
-- 🥅 2022 Goal: Learn about UX/XI
-- ⚡ Hobbies: I love to draw and play table-tennis 🏓
-- 😻 Love to make new friends
-
-## Technologies I have worked with
-
-- **Languages:**
-  `C`, `C++`, `Javascript`, `Python`, `Julia`, `Scala`
-- **Clouds:**
-  `Amazon Web Services`, `Google Cloud Platform`
-- **Data stores:**
-  `MySQL`, `neo4j`
-- **Version Control:**
-  `git`
-- **Operating Systems:**
-  `Ubuntu`, `Windows`
-
-## Connect with me 🌍
-
-<a href="mailto:riyabisht152@gmail.com?subject=github:">
-  <img height="25px" src="./img/gmail.svg">
-</a>
-<a href="https://www.linkedin.com/in/riya-bisht/">
-  <img height="25px" src="./img/linkedin.svg">
-</a>
-<a href="https://twitter.com/Riya_Bisht_">
-  <img height="25px" src="./img/twitter.svg">
-</a>
+<p align="center">
+  Contact - <a href="mailto:riyabisht152@gmail.com?subject=github">riyabisht152@gmail.com</a>
+</p>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=riyabisht&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
